@@ -1,0 +1,12 @@
+{
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:diamond_calcite_generator"
+		}
+	],
+	"output": {
+		"item": "minecraft:calcite",
+		"count": 32
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:diamond_andesite_generator"
+		}
+	],
+	"output": {
+		"item": "minecraft:andesite",
+		"count": 32
+	}
+}

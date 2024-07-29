@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "skyblock_resources:iron_andesite_generator",
+    "skyblock_resources:iron_basalt_generator",
+    "skyblock_resources:iron_blackstone_generator",
+    "skyblock_resources:iron_cobblestone_generator",
+    "skyblock_resources:iron_deepslate_generator",
+    "skyblock_resources:iron_diorite_generator",
+    "skyblock_resources:iron_dirt_generator",
+    "skyblock_resources:iron_granite_generator",
+    "skyblock_resources:iron_gravel_generator",
+    "skyblock_resources:iron_netherrack_generator",
+    "skyblock_resources:iron_sand_generator",
+    "skyblock_resources:iron_soulsand_generator",
+    "skyblock_resources:iron_tuff_generator",
+    "skyblock_resources:iron_calcite_generator",
+    "skyblock_resources:iron_clay_generator",
+    "skyblock_resources:iron_dripstone_generator",
+    "skyblock_resources:iron_end_stone_generator",
+    "skyblock_resources:iron_slime_generator"
+  ]
+}

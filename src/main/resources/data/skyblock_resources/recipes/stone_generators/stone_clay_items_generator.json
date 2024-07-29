@@ -1,0 +1,12 @@
+{
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:stone_clay_generator"
+		}
+	],
+	"output": {
+		"item": "minecraft:clay_ball",
+		"count": 2
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "skyblock_resources:stone_andesite_generator",
+    "skyblock_resources:stone_basalt_generator",
+    "skyblock_resources:stone_blackstone_generator",
+    "skyblock_resources:stone_cobblestone_generator",
+    "skyblock_resources:stone_deepslate_generator",
+    "skyblock_resources:stone_diorite_generator",
+    "skyblock_resources:stone_dirt_generator",
+    "skyblock_resources:stone_granite_generator",
+    "skyblock_resources:stone_gravel_generator",
+    "skyblock_resources:stone_netherrack_generator",
+    "skyblock_resources:stone_sand_generator",
+    "skyblock_resources:stone_soulsand_generator",
+    "skyblock_resources:stone_tuff_generator",
+    "skyblock_resources:stone_calcite_generator",
+    "skyblock_resources:stone_clay_generator",
+    "skyblock_resources:stone_end_stone_generator",
+    "skyblock_resources:stone_dripstone_generator",
+    "skyblock_resources:stone_slime_generator"
+  ]
+}

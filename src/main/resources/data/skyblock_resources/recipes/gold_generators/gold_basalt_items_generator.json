@@ -1,0 +1,12 @@
+{
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:gold_basalt_generator"
+		}
+	],
+	"output": {
+		"item": "minecraft:basalt",
+		"count": 16
+	}
+}

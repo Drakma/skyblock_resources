@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "skyblock_resources:gold_andesite_generator",
+    "skyblock_resources:gold_basalt_generator",
+    "skyblock_resources:gold_blackstone_generator",
+    "skyblock_resources:gold_cobblestone_generator",
+    "skyblock_resources:gold_deepslate_generator",
+    "skyblock_resources:gold_diorite_generator",
+    "skyblock_resources:gold_dirt_generator",
+    "skyblock_resources:gold_granite_generator",
+    "skyblock_resources:gold_gravel_generator",
+    "skyblock_resources:gold_netherrack_generator",
+    "skyblock_resources:gold_sand_generator",
+    "skyblock_resources:gold_soulsand_generator",
+    "skyblock_resources:gold_tuff_generator",
+    "skyblock_resources:gold_calcite_generator",
+    "skyblock_resources:gold_clay_generator",
+    "skyblock_resources:gold_dripstone_generator",
+    "skyblock_resources:gold_end_stone_generator",
+    "skyblock_resources:gold_slime_generator"
+  ]
+}

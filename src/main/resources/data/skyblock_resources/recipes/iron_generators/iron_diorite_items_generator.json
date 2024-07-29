@@ -1,0 +1,12 @@
+{
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:iron_diorite_generator"
+		}
+	],
+	"output": {
+		"item": "minecraft:diorite",
+		"count": 4
+	}
+}

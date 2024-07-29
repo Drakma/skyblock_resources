@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": ["prp", "r r", "php"],
+	"key": {
+		"p": {
+			"tag": "forge:storage_blocks/netherite"
+		},
+		"r": {
+			"tag": "forge:ingots/netherite"
+		},
+		"h": {
+			"item": "skyblock_resources:diamond_upgrade_card"
+		}
+	},
+	"result": {
+		"item": "skyblock_resources:netherite_upgrade_card",
+		"count": 1
+	}
+}

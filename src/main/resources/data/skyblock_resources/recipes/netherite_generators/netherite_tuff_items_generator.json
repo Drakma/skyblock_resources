@@ -1,0 +1,12 @@
+{
+  "type": "skyblock_resources:generator_items",
+  "ingredients": [
+    {
+      "item": "skyblock_resources:netherite_tuff_generator"
+    }
+  ],
+  "output": {
+    "item": "minecraft:tuff",
+    "count": 64
+  }
+}

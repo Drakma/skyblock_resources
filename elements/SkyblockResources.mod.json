@@ -1,0 +1,11 @@
+{
+  "_fv": 66,
+  "_type": "tab",
+  "definition": {
+    "name": "Skyblock Resources",
+    "icon": {
+      "value": "Blocks.ROOTED_DIRT"
+    },
+    "showSearch": true
+  }
+}

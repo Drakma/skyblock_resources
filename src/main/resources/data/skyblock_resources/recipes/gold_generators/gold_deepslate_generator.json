@@ -1,0 +1,15 @@
+{
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "minecraft:deepslate"
+		},
+		{
+			"item": "skyblock_resources:gold_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:gold_deepslate_generator",
+		"count": 1
+	}
+}

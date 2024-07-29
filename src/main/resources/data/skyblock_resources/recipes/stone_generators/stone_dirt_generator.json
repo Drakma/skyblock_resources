@@ -1,0 +1,15 @@
+{
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "minecraft:dirt"
+		},
+		{
+			"item": "skyblock_resources:stone_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:stone_dirt_generator",
+		"count": 1
+	}
+}

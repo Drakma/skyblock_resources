@@ -1,0 +1,15 @@
+{
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "minecraft:soul_sand"
+		},
+		{
+			"item": "skyblock_resources:stone_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:stone_soulsand_generator",
+		"count": 1
+	}
+}

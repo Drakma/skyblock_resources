@@ -1,0 +1,15 @@
+{
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "minecraft:andesite"
+		},
+		{
+			"item": "skyblock_resources:gold_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:gold_andesite_generator",
+		"count": 1
+	}
+}

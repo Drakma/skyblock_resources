@@ -1,0 +1,37 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "stone_hammer_gui.png",
+    "width": 169,
+    "height": 38,
+    "icon": {
+      "value": "CUSTOM:WoodenEmptyGenerator"
+    },
+    "craftingtable": {
+      "value": ""
+    },
+    "enableCraftingtable": false,
+    "title": "Set Generator",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 30,
+        "y": 12,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 63,
+        "y": 12,
+        "slotid": 1
+      },
+      {
+        "type": "OUTPUT",
+        "x": 125,
+        "y": 12,
+        "slotid": 0
+      }
+    ]
+  }
+}

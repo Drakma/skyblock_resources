@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": ["prp", "r r", "php"],
+	"key": {
+		"p": {
+			"tag": "minecraft:stone"
+		},
+		"r": {
+			"tag": "minecraft:walls"
+		},
+		"h": {
+			"tag": "minecraft:logs"
+		}
+	},
+	"result": {
+		"item": "skyblock_resources:stone_upgrade_card",
+		"count": 1
+	}
+}

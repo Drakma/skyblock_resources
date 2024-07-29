@@ -1,0 +1,14 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:NetheriteUpgradeCard"
+      }
+    ],
+    "information": [
+      "Sneek and right-click to upgrade a diamond resource generator."
+    ]
+  }
+}

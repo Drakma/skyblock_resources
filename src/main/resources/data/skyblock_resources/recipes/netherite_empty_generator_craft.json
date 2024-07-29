@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": ["prp", "rcr", "php"],
+	"key": {
+		"p": {
+			"tag": "forge:storage_blocks/netherite"
+		},
+		"r": {
+			"tag": "forge:ingots/netherite"
+		},
+		"c": {
+			"tag": "forge:chests/wooden"
+		},
+		"h": {
+			"item": "skyblock_resources:diamond_empty_generator"
+		}
+	},
+	"result": {
+		"item": "skyblock_resources:netherite_empty_generator",
+		"count": 1
+	}
+}

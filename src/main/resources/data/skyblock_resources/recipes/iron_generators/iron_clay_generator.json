@@ -1,0 +1,15 @@
+{
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "minecraft:clay"
+		},
+		{
+			"item": "skyblock_resources:iron_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:iron_clay_generator",
+		"count": 1
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "type": "skyblock_resources:generator_items",
+  "ingredients": [
+    {
+      "item": "skyblock_resources:netherite_dripstone_generator"
+    }
+  ],
+  "output": {
+    "item": "minecraft:pointed_dripstone",
+    "count": 64
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "skyblock_resources:set_generator_gui",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "skyblock_resources:wooden_empty_generator"
+    }
+  ],
+  "output": {
+    "item": "skyblock_resources:wooden_netherrack_generator",
+    "count": 1
+  }
+}

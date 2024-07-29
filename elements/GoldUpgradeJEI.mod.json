@@ -1,0 +1,14 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:GoldUpgradeCard"
+      }
+    ],
+    "information": [
+      "Sneek and right-click to upgrade an iron resource generator."
+    ]
+  }
+}

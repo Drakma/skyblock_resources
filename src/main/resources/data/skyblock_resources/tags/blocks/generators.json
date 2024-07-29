@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#skyblock_resources:wooden_generators",
+    "#skyblock_resources:stone_generators",
+    "#skyblock_resources:iron_generators",
+    "#skyblock_resources:gold_generators",
+    "#skyblock_resources:diamond_generators",
+    "#skyblock_resources:netherite_generators"
+  ]
+}

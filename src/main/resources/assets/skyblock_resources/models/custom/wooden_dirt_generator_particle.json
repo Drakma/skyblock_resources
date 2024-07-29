@@ -1,0 +1,7 @@
+
+{
+  "parent": "skyblock_resources:displaysettings/resource_casing.item",
+  "textures": {
+    "particle": "skyblock_resources:block/wooden_dirt"
+  }
+}

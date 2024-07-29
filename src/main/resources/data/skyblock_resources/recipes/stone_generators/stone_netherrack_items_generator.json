@@ -1,0 +1,12 @@
+{
+  "type": "skyblock_resources:generator_items",
+  "ingredients": [
+    {
+      "item": "skyblock_resources:stone_netherrack_generator"
+    }
+  ],
+  "output": {
+    "item": "minecraft:netherrack",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "skyblock_resources:wooden_basalt_generator",
+    "skyblock_resources:wooden_blackstone_generator",
+    "skyblock_resources:wooden_cobblestone_generator",
+    "skyblock_resources:wooden_deepslate_generator",
+    "skyblock_resources:wooden_diorite_generator",
+    "skyblock_resources:wooden_dirt_generator",
+    "skyblock_resources:wooden_granite_generator",
+    "skyblock_resources:wooden_gravel_generator",
+    "skyblock_resources:wooden_netherrack_generator",
+    "skyblock_resources:wooden_sand_generator",
+    "skyblock_resources:wooden_soulsand_generator",
+    "skyblock_resources:wooden_tuff_generator",
+    "skyblock_resources:wooden_andesite_generator",
+    "skyblock_resources:wooden_calcite_generator",
+    "skyblock_resources:wooden_dripstone_generator",
+    "skyblock_resources:wooden_end_stone_generator",
+    "skyblock_resources:wooden_slime_generator",
+    "skyblock_resources:wooden_clay_generator"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "skyblock_resources:displaysettings/resource_casing_empty.item",
+  "textures": {
+    "particle": "skyblock_resources:block/diamond_empty"
+  }
+}

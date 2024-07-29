@@ -1,0 +1,12 @@
+{
+  "type": "skyblock_resources:generator_items",
+  "ingredients": [
+    {
+      "item": "skyblock_resources:stone_granite_generator"
+    }
+  ],
+  "output": {
+    "item": "minecraft:granite",
+    "count": 2
+  }
+}

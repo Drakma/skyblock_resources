@@ -1,0 +1,42 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": true,
+			"animation_length": 4,
+			"bones": {
+				"material": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [0, 360, 0],
+							"easing": "linear"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"1.0": {
+							"vector": [0, -1, 0],
+							"easing": "easeOutCubic"
+						},
+						"3.0": {
+							"vector": [0, 1, 0],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [0, 0, 0],
+							"easing": "easeInCubic"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

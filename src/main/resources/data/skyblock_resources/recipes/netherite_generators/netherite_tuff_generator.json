@@ -1,0 +1,15 @@
+{
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "minecraft:tuff"
+		},
+		{
+			"item": "skyblock_resources:netherite_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:netherite_tuff_generator",
+		"count": 1
+	}
+}

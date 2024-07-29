@@ -1,0 +1,7 @@
+{
+  "parent": "skyblock_resources:custom/gold_upgrade",
+  "textures": {
+    "0": "skyblock_resources:block/gold_upgrade",
+    "particle": "skyblock_resources:item/wooden_upgrade_card"
+  }
+}

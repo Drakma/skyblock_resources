@@ -1,0 +1,7 @@
+{
+  "parent": "skyblock_resources:custom/diamond_upgrade",
+  "textures": {
+    "0": "skyblock_resources:block/diamond_upgrade",
+    "particle": "skyblock_resources:item/wooden_upgrade_card"
+  }
+}

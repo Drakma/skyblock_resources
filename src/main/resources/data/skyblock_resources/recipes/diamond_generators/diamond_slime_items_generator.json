@@ -1,0 +1,12 @@
+{
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:diamond_slime_generator"
+		}
+	],
+	"output": {
+		"item": "minecraft:slime_ball",
+		"count": 32
+	}
+}

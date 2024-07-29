@@ -1,0 +1,12 @@
+{
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:diamond_end_stone_generator"
+		}
+	],
+	"output": {
+		"item": "minecraft:end_stone",
+		"count": 32
+	}
+}

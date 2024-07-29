@@ -1,0 +1,15 @@
+{
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "minecraft:cobblestone"
+		},
+		{
+			"item": "skyblock_resources:diamond_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:diamond_cobblestone_generator",
+		"count": 1
+	}
+}

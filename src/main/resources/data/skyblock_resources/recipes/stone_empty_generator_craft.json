@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": ["prp", "rcr", "php"],
+	"key": {
+		"p": {
+			"tag": "minecraft:stone"
+		},
+		"r": {
+			"tag": "minecraft:walls"
+		},
+		"c": {
+			"tag": "forge:chests/wooden"
+		},
+		"h": {
+			"item": "skyblock_resources:wooden_empty_generator"
+		}
+	},
+	"result": {
+		"item": "skyblock_resources:stone_empty_generator",
+		"count": 1
+	}
+}

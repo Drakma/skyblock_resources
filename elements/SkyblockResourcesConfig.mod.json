@@ -1,0 +1,244 @@
+{
+  "_fv": 66,
+  "_type": "config",
+  "definition": {
+    "pools": [
+      {
+        "category": "Wooden Generators",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 40.0,
+            "textDefault": "",
+            "comment": "Number of ticks between cycles",
+            "vardisplay": "WoodenTicksBetweenCycle",
+            "varname": "wooden_ticks_between_cycles",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 128.0,
+            "textDefault": "",
+            "comment": "Maximum number of items held in internal inventory",
+            "vardisplay": "WoodenMaxItems",
+            "varname": "wooden_max_items",
+            "enablecomment": false,
+            "stringlist": []
+          }
+        ]
+      },
+      {
+        "category": "Stone Generators",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 40.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "StoneTicksBetweenCycles",
+            "varname": "stone_ticks_between_cycles",
+            "enablecomment": false,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 256.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "StoneMaxItems",
+            "varname": "stone_max_items",
+            "enablecomment": false,
+            "stringlist": []
+          }
+        ]
+      },
+      {
+        "category": "Iron Generators",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 40.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "IronTicksBetweenCycles",
+            "varname": "iron_ticks_between_cycles",
+            "enablecomment": false,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 512.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "IronMaxItems",
+            "varname": "iron_max_items",
+            "enablecomment": false,
+            "stringlist": []
+          }
+        ]
+      },
+      {
+        "category": "Gold Generators",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 40.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "GoldTicksBetweenCycles",
+            "varname": "gold_ticks_between_cycles",
+            "enablecomment": false,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1024.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "GoldMaxItems",
+            "varname": "gold_max_items",
+            "enablecomment": false,
+            "stringlist": []
+          }
+        ]
+      },
+      {
+        "category": "Diamond Generators",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 40.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "DiamondTicksBetweenCycles",
+            "varname": "diamond_ticks_between_cycles",
+            "enablecomment": false,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2048.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "DiamondMaxItems",
+            "varname": "diamond_max_items",
+            "enablecomment": false,
+            "stringlist": []
+          }
+        ]
+      },
+      {
+        "category": "Netherite Generators",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 40.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "NetheriteTicksBetweenCycles",
+            "varname": "netherite_ticks_between_cycles",
+            "enablecomment": false,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 4096.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "NetheriteMaxItems",
+            "varname": "netherite_max_items",
+            "enablecomment": false,
+            "stringlist": []
+          }
+        ]
+      }
+    ],
+    "file": "skyblock_resources",
+    "configType": 0
+  }
+}

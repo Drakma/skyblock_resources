@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "skyblock_resources:custom/gold_calcite_generator_particle"
+    }
+  }
+}

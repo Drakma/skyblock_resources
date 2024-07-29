@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "skyblock_resources:custom/stone_cobblestone_generator_particle"
+    }
+  }
+}

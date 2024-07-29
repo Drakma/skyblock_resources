@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "skyblock_resources:custom/diamond_tuff_generator_particle"
+    }
+  }
+}
