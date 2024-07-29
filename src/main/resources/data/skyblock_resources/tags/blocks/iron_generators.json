@@ -18,6 +18,8 @@
     "skyblock_resources:iron_clay_generator",
     "skyblock_resources:iron_dripstone_generator",
     "skyblock_resources:iron_end_stone_generator",
-    "skyblock_resources:iron_slime_generator"
+    "skyblock_resources:iron_slime_generator",
+    "skyblock_resources:iron_dust_generator",
+    "skyblock_resources:iron_sky_stone_generator"
   ]
 }

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "skyblock_resources:generator_items",
+	"ingredients": [
+		{
+			"item": "skyblock_resources:stone_sky_stone_generator"
+		}
+	],
+	"output": {
+		"item": "ae2:sky_stone",
+		"count": 2
+	}
+}

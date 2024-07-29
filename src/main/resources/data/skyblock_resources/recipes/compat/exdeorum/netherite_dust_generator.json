@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "exdeorum"
+		}
+	],
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "exdeorum:dust"
+		},
+		{
+			"item": "skyblock_resources:netherite_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:netherite_dust_generator",
+		"count": 1
+	}
+}

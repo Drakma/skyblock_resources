@@ -18,12 +18,14 @@ import net.drakma.skyblockresources.item.DiamondUpgradeCardItem;
 import net.drakma.skyblockresources.block.display.WoodenTuffGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenSoulsandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenSlimeGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.WoodenSkyStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenSandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenNetherrackGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenGravelGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenGraniteGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenEndStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenEmptyGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.WoodenDustGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenDripstoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenDirtGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.WoodenDioriteGeneratorDisplayItem;
@@ -37,12 +39,14 @@ import net.drakma.skyblockresources.block.display.WoodenAndesiteGeneratorDisplay
 import net.drakma.skyblockresources.block.display.StoneTuffGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneSoulsandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneSlimeGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.StoneSkyStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneSandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneNetherrackGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneGravelGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneGraniteGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneEndStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneEmptyGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.StoneDustGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneDripstoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneDirtGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.StoneDioriteGeneratorDisplayItem;
@@ -56,12 +60,14 @@ import net.drakma.skyblockresources.block.display.StoneAndesiteGeneratorDisplayI
 import net.drakma.skyblockresources.block.display.NetheriteTuffGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteSoulsandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteSlimeGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.NetheriteSkyStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteSandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteNetherrackGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteGravelGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteGraniteGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteEndStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteEmptyGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.NetheriteDustGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteDripstoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteDirtGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.NetheriteDioriteGeneratorDisplayItem;
@@ -75,12 +81,14 @@ import net.drakma.skyblockresources.block.display.NetheriteAndesiteGeneratorDisp
 import net.drakma.skyblockresources.block.display.IronTuffGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronSoulsandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronSlimeGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.IronSkyStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronSandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronNetherrackGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronGravelGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronGraniteGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronEndStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronEmptyGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.IronDustGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronDripstoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronDirtGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.IronDioriteGeneratorDisplayItem;
@@ -94,12 +102,14 @@ import net.drakma.skyblockresources.block.display.IronAndesiteGeneratorDisplayIt
 import net.drakma.skyblockresources.block.display.GoldTuffGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldSoulsandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldSlimeGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.GoldSkyStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldSandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldNetherrackGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldGravelGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldGraniteGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldEndStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldEmptyGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.GoldDustGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldDripstoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldDirtGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.GoldDioriteGeneratorDisplayItem;
@@ -113,12 +123,14 @@ import net.drakma.skyblockresources.block.display.GoldAndesiteGeneratorDisplayIt
 import net.drakma.skyblockresources.block.display.DiamondTuffGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondSoulsandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondSlimeGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.DiamondSkyStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondSandGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondNetherrackGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondGravelGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondGraniteGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondEndStoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondEmptyGeneratorDisplayItem;
+import net.drakma.skyblockresources.block.display.DiamondDustGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondDripstoneGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondDirtGeneratorDisplayItem;
 import net.drakma.skyblockresources.block.display.DiamondDioriteGeneratorDisplayItem;
@@ -366,6 +378,30 @@ public class SkyblockResourcesModItems {
 	public static final RegistryObject<Item> GOLD_UPGRADE_CARD = REGISTRY.register("gold_upgrade_card", () -> new GoldUpgradeCardItem());
 	public static final RegistryObject<Item> DIAMOND_UPGRADE_CARD = REGISTRY.register("diamond_upgrade_card", () -> new DiamondUpgradeCardItem());
 	public static final RegistryObject<Item> NETHERITE_UPGRADE_CARD = REGISTRY.register("netherite_upgrade_card", () -> new NetheriteUpgradeCardItem());
+	public static final RegistryObject<Item> WOODEN_DUST_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.WOODEN_DUST_GENERATOR.getId().getPath(),
+			() -> new WoodenDustGeneratorDisplayItem(SkyblockResourcesModBlocks.WOODEN_DUST_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> STONE_DUST_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.STONE_DUST_GENERATOR.getId().getPath(),
+			() -> new StoneDustGeneratorDisplayItem(SkyblockResourcesModBlocks.STONE_DUST_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> IRON_DUST_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.IRON_DUST_GENERATOR.getId().getPath(),
+			() -> new IronDustGeneratorDisplayItem(SkyblockResourcesModBlocks.IRON_DUST_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> GOLD_DUST_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.GOLD_DUST_GENERATOR.getId().getPath(),
+			() -> new GoldDustGeneratorDisplayItem(SkyblockResourcesModBlocks.GOLD_DUST_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> DIAMOND_DUST_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.DIAMOND_DUST_GENERATOR.getId().getPath(),
+			() -> new DiamondDustGeneratorDisplayItem(SkyblockResourcesModBlocks.DIAMOND_DUST_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NETHERITE_DUST_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.NETHERITE_DUST_GENERATOR.getId().getPath(),
+			() -> new NetheriteDustGeneratorDisplayItem(SkyblockResourcesModBlocks.NETHERITE_DUST_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> WOODEN_SKY_STONE_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.WOODEN_SKY_STONE_GENERATOR.getId().getPath(),
+			() -> new WoodenSkyStoneGeneratorDisplayItem(SkyblockResourcesModBlocks.WOODEN_SKY_STONE_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> STONE_SKY_STONE_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.STONE_SKY_STONE_GENERATOR.getId().getPath(),
+			() -> new StoneSkyStoneGeneratorDisplayItem(SkyblockResourcesModBlocks.STONE_SKY_STONE_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> IRON_SKY_STONE_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.IRON_SKY_STONE_GENERATOR.getId().getPath(),
+			() -> new IronSkyStoneGeneratorDisplayItem(SkyblockResourcesModBlocks.IRON_SKY_STONE_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> DIAMOND_SKY_STONE_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.DIAMOND_SKY_STONE_GENERATOR.getId().getPath(),
+			() -> new DiamondSkyStoneGeneratorDisplayItem(SkyblockResourcesModBlocks.DIAMOND_SKY_STONE_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NETHERITE_SKY_STONE_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.NETHERITE_SKY_STONE_GENERATOR.getId().getPath(),
+			() -> new NetheriteSkyStoneGeneratorDisplayItem(SkyblockResourcesModBlocks.NETHERITE_SKY_STONE_GENERATOR.get(), new Item.Properties()));
+	public static final RegistryObject<Item> GOLD_SKY_STONE_GENERATOR = REGISTRY.register(SkyblockResourcesModBlocks.GOLD_SKY_STONE_GENERATOR.getId().getPath(),
+			() -> new GoldSkyStoneGeneratorDisplayItem(SkyblockResourcesModBlocks.GOLD_SKY_STONE_GENERATOR.get(), new Item.Properties()));
 	// Start of user code block custom items
 	// End of user code block custom items
 }

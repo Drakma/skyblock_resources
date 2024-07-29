@@ -1,0 +1,21 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ae2"
+		}
+	],
+	"type": "skyblock_resources:set_generator_gui",
+	"ingredients": [
+		{
+			"item": "ae2:sky_stone"
+		},
+		{
+			"item": "skyblock_resources:diamond_empty_generator"
+		}
+	],
+	"output": {
+		"item": "skyblock_resources:diamond_sky_stone_generator",
+		"count": 1
+	}
+}

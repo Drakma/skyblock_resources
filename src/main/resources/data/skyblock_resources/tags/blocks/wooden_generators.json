@@ -18,6 +18,8 @@
     "skyblock_resources:wooden_dripstone_generator",
     "skyblock_resources:wooden_end_stone_generator",
     "skyblock_resources:wooden_slime_generator",
-    "skyblock_resources:wooden_clay_generator"
+    "skyblock_resources:wooden_clay_generator",
+    "skyblock_resources:wooden_dust_generator",
+    "skyblock_resources:wooden_sky_stone_generator"
   ]
 }

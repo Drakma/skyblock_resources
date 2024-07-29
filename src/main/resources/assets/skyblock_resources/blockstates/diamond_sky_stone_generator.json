@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "skyblock_resources:custom/diamond_sky_stone_generator_particle"
+    }
+  }
+}

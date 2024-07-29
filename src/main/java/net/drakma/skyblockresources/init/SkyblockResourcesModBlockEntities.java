@@ -14,12 +14,14 @@ import net.minecraft.world.level.block.Block;
 import net.drakma.skyblockresources.block.entity.WoodenTuffGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenSoulsandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenSlimeGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.WoodenSkyStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenSandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenNetherrackGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenGravelGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenGraniteGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenEndStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenEmptyGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.WoodenDustGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenDripstoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenDirtGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.WoodenDioriteGeneratorTileEntity;
@@ -33,12 +35,14 @@ import net.drakma.skyblockresources.block.entity.WoodenAndesiteGeneratorTileEnti
 import net.drakma.skyblockresources.block.entity.StoneTuffGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneSoulsandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneSlimeGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.StoneSkyStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneSandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneNetherrackGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneGravelGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneGraniteGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneEndStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneEmptyGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.StoneDustGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneDripstoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneDirtGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.StoneDioriteGeneratorTileEntity;
@@ -52,12 +56,14 @@ import net.drakma.skyblockresources.block.entity.StoneAndesiteGeneratorTileEntit
 import net.drakma.skyblockresources.block.entity.NetheriteTuffGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteSoulsandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteSlimeGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.NetheriteSkyStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteSandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteNetherrackGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteGravelGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteGraniteGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteEndStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteEmptyGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.NetheriteDustGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteDripstoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteDirtGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.NetheriteDioriteGeneratorTileEntity;
@@ -71,12 +77,14 @@ import net.drakma.skyblockresources.block.entity.NetheriteAndesiteGeneratorTileE
 import net.drakma.skyblockresources.block.entity.IronTuffGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronSoulsandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronSlimeGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.IronSkyStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronSandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronNetherrackGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronGravelGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronGraniteGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronEndStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronEmptyGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.IronDustGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronDripstoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronDirtGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.IronDioriteGeneratorTileEntity;
@@ -90,12 +98,14 @@ import net.drakma.skyblockresources.block.entity.IronAndesiteGeneratorTileEntity
 import net.drakma.skyblockresources.block.entity.GoldTuffGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldSoulsandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldSlimeGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.GoldSkyStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldSandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldNetherrackGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldGravelGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldGraniteGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldEndStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldEmptyGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.GoldDustGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldDripstoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldDirtGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.GoldDioriteGeneratorTileEntity;
@@ -109,12 +119,14 @@ import net.drakma.skyblockresources.block.entity.GoldAndesiteGeneratorTileEntity
 import net.drakma.skyblockresources.block.entity.DiamondTuffGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondSoulsandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondSlimeGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.DiamondSkyStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondSandGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondNetherrackGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondGravelGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondGraniteGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondEndStoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondEmptyGeneratorTileEntity;
+import net.drakma.skyblockresources.block.entity.DiamondDustGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondDripstoneGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondDirtGeneratorTileEntity;
 import net.drakma.skyblockresources.block.entity.DiamondDioriteGeneratorTileEntity;
@@ -357,6 +369,30 @@ public class SkyblockResourcesModBlockEntities {
 			() -> BlockEntityType.Builder.of(NetheriteEndStoneGeneratorTileEntity::new, SkyblockResourcesModBlocks.NETHERITE_END_STONE_GENERATOR.get()).build(null));
 	public static final RegistryObject<BlockEntityType<NetheriteSlimeGeneratorTileEntity>> NETHERITE_SLIME_GENERATOR = REGISTRY.register("netherite_slime_generator",
 			() -> BlockEntityType.Builder.of(NetheriteSlimeGeneratorTileEntity::new, SkyblockResourcesModBlocks.NETHERITE_SLIME_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<WoodenDustGeneratorTileEntity>> WOODEN_DUST_GENERATOR = REGISTRY.register("wooden_dust_generator",
+			() -> BlockEntityType.Builder.of(WoodenDustGeneratorTileEntity::new, SkyblockResourcesModBlocks.WOODEN_DUST_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<StoneDustGeneratorTileEntity>> STONE_DUST_GENERATOR = REGISTRY.register("stone_dust_generator",
+			() -> BlockEntityType.Builder.of(StoneDustGeneratorTileEntity::new, SkyblockResourcesModBlocks.STONE_DUST_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<IronDustGeneratorTileEntity>> IRON_DUST_GENERATOR = REGISTRY.register("iron_dust_generator",
+			() -> BlockEntityType.Builder.of(IronDustGeneratorTileEntity::new, SkyblockResourcesModBlocks.IRON_DUST_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<GoldDustGeneratorTileEntity>> GOLD_DUST_GENERATOR = REGISTRY.register("gold_dust_generator",
+			() -> BlockEntityType.Builder.of(GoldDustGeneratorTileEntity::new, SkyblockResourcesModBlocks.GOLD_DUST_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<DiamondDustGeneratorTileEntity>> DIAMOND_DUST_GENERATOR = REGISTRY.register("diamond_dust_generator",
+			() -> BlockEntityType.Builder.of(DiamondDustGeneratorTileEntity::new, SkyblockResourcesModBlocks.DIAMOND_DUST_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<NetheriteDustGeneratorTileEntity>> NETHERITE_DUST_GENERATOR = REGISTRY.register("netherite_dust_generator",
+			() -> BlockEntityType.Builder.of(NetheriteDustGeneratorTileEntity::new, SkyblockResourcesModBlocks.NETHERITE_DUST_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<WoodenSkyStoneGeneratorTileEntity>> WOODEN_SKY_STONE_GENERATOR = REGISTRY.register("wooden_sky_stone_generator",
+			() -> BlockEntityType.Builder.of(WoodenSkyStoneGeneratorTileEntity::new, SkyblockResourcesModBlocks.WOODEN_SKY_STONE_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<StoneSkyStoneGeneratorTileEntity>> STONE_SKY_STONE_GENERATOR = REGISTRY.register("stone_sky_stone_generator",
+			() -> BlockEntityType.Builder.of(StoneSkyStoneGeneratorTileEntity::new, SkyblockResourcesModBlocks.STONE_SKY_STONE_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<IronSkyStoneGeneratorTileEntity>> IRON_SKY_STONE_GENERATOR = REGISTRY.register("iron_sky_stone_generator",
+			() -> BlockEntityType.Builder.of(IronSkyStoneGeneratorTileEntity::new, SkyblockResourcesModBlocks.IRON_SKY_STONE_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<DiamondSkyStoneGeneratorTileEntity>> DIAMOND_SKY_STONE_GENERATOR = REGISTRY.register("diamond_sky_stone_generator",
+			() -> BlockEntityType.Builder.of(DiamondSkyStoneGeneratorTileEntity::new, SkyblockResourcesModBlocks.DIAMOND_SKY_STONE_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<NetheriteSkyStoneGeneratorTileEntity>> NETHERITE_SKY_STONE_GENERATOR = REGISTRY.register("netherite_sky_stone_generator",
+			() -> BlockEntityType.Builder.of(NetheriteSkyStoneGeneratorTileEntity::new, SkyblockResourcesModBlocks.NETHERITE_SKY_STONE_GENERATOR.get()).build(null));
+	public static final RegistryObject<BlockEntityType<GoldSkyStoneGeneratorTileEntity>> GOLD_SKY_STONE_GENERATOR = REGISTRY.register("gold_sky_stone_generator",
+			() -> BlockEntityType.Builder.of(GoldSkyStoneGeneratorTileEntity::new, SkyblockResourcesModBlocks.GOLD_SKY_STONE_GENERATOR.get()).build(null));
 
 	private static RegistryObject<BlockEntityType<?>> register(String registryname, RegistryObject<Block> block, BlockEntityType.BlockEntitySupplier<?> supplier) {
 		return REGISTRY.register(registryname, () -> BlockEntityType.Builder.of(supplier, block.get()).build(null));

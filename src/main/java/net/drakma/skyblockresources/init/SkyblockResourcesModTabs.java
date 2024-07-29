@@ -138,5 +138,17 @@ public class SkyblockResourcesModTabs {
 				tabData.accept(SkyblockResourcesModBlocks.GOLD_TUFF_GENERATOR.get().asItem());
 				tabData.accept(SkyblockResourcesModBlocks.DIAMOND_TUFF_GENERATOR.get().asItem());
 				tabData.accept(SkyblockResourcesModBlocks.NETHERITE_TUFF_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.WOODEN_SKY_STONE_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.STONE_SKY_STONE_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.IRON_SKY_STONE_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.GOLD_SKY_STONE_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.DIAMOND_SKY_STONE_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.NETHERITE_SKY_STONE_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.WOODEN_DUST_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.STONE_DUST_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.IRON_DUST_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.GOLD_DUST_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.DIAMOND_DUST_GENERATOR.get().asItem());
+				tabData.accept(SkyblockResourcesModBlocks.NETHERITE_DUST_GENERATOR.get().asItem());
 			}).withSearchBar().build());
 }

@@ -18,6 +18,8 @@
     "skyblock_resources:stone_clay_generator",
     "skyblock_resources:stone_end_stone_generator",
     "skyblock_resources:stone_dripstone_generator",
-    "skyblock_resources:stone_slime_generator"
+    "skyblock_resources:stone_slime_generator",
+    "skyblock_resources:stone_dust_generator",
+    "skyblock_resources:stone_sky_stone_generator"
   ]
 }
